@@ -1,0 +1,24 @@
+{
+  "audioCues.enabled": "off",
+  "accessibility.signals.lineHasError": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.lineHasWarning": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.lineHasInlineSuggestion": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.onDebugBreak": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.noInlayHints": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.taskCompleted": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.taskFailed": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.terminalCommandFailed": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.terminalQuickFix": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.diffLineInserted": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.diffLineDeleted": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.diffLineModified": { "sound": "off", "announcement": "off" },
+  "accessibility.signals.clear": {
+    "sound": "off",
+    "announcement": "off"
+  },
+  "accessibility.signalOptions.volume": 0,
+  "accessibility.signals.terminalBell": {
+    "sound": "off"
+  },
+  "terminal.integrated.enableVisualBell": false
+}

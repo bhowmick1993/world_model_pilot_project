@@ -1,0 +1,16 @@
+# Folders
+deep_learning_models/
+notes/
+# Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyz
+*.pywz
+*.pyzw
+*.npz

@@ -1,0 +1,6 @@
+gymnasium[classic-control]
+matplotlib
+numpy
+torch
+tqdm
+scikit-learn
