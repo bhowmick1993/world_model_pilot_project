@@ -1,6 +1,8 @@
+from __future__ import annotations
+import numpy as np
 import gymnasium as gym
 
-env = gym.make("CartPole-v1", render_mode="human")
+env = gym.make("Hopper-v4", render_mode="human")
 num_episodes = 10
 
 for episode in range(num_episodes):
